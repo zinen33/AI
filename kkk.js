@@ -7,7 +7,7 @@ const options = {
   method: "POST",
   url: "https://api.edenai.run/v2/text/chat",
   headers: {
-    authorization: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjQ1ZGZlMjAtMzJhOS00NzljLWFkY2MtMTI4ZmU4NTU5YWE1IiwidHlwZSI6ImFwaV90b2tlbiJ9.wpjiDE_ByO2VPttQ3CCTVz7cbDurvVUXPo0qa6PrXe0",
+    authorization: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMTVlOWFjOWItZDEzNS00MWUyLTg5YzUtNzc0ZjI1ZjViN2RiIiwidHlwZSI6ImFwaV90b2tlbiJ9.0r50abNoz90fZTVeFhJHtX5iRGhZ111WPkWVUG_brE4",
   },
   data: {
     providers: "google",
